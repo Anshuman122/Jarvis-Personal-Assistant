@@ -87,5 +87,10 @@ python jarvis.py
 📬 Contact
 Anshuman Kumar Nidhi
 📧 anshumankumarnidhi5170@gmail.com
-🔗 LinkedIn
-🔗 GitHub
+## 📬 Contact
+
+**Anshuman Kumar Nidhi**  
+📧 anshumankumarnidhi5170@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/anshuman-kumar-nidhi-a210831b8)  
+🔗 [GitHub](https://github.com/Anshuman122)
+
